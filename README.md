@@ -1,8 +1,8 @@
 ![](./images/logo.svg)
 
-# 🦈 INTRA-SHARE 🦈
+# 🦈 Local DC++ 🦈
 
-Welcome to Intra-Share, a desktop application that runs on intra-network and replicates the features of DC++. The application uses various networking, multithreading concepts, and algorithms to achieve the best file transfer speed possible. This application will run on any local area network for chatting and file-sharing purposes. Downloading speed in Intra-Share will always be higher than one can get from torrent or any other website.
+Welcome to Local DC++, a desktop application that runs on intra-network and replicates the features of DC++. The application uses various networking, multithreading concepts, and algorithms to achieve the best file transfer speed possible. This application will run on any local area network for chatting and file-sharing purposes. Downloading speed in Intra-Share will always be higher than one can get from torrent or any other website.
 #### Video Demo
 https://drive.google.com/file/d/181OI4Pi7mb5Mz7dJjg2APZqd32FUAyir/view
 
